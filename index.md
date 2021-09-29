@@ -22,13 +22,10 @@
           <p style="text-align: center;"><strong><span style="color: #ff0000;">BELOW APPS REQUIRING ONE TIME</span> <a href="https://forms.gle/uigzj4RAUZw3pU839">WHITELISTING</a><span style="color: #ff0000;">:</span></strong>
           </p>
           <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9PN845JHNSTB" style="color:#339966" class="btn _5"><span class="icon"></span>RetroArch Multi-Platform Emulator [Private Build] (AUTO-UPDATABLE)
-          </p>
           <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9MV518CCPFG6" style="color:#339966" class="btn _5"><span class="icon"></span>DuckStation [Private Build]
-          </p>
           <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9N9KTPFMHV1N" style="color:#339966" class="btn _5"><span class="icon"></span>PPSSPP [Private Build]
-          </p>
           <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9NQM495XJ2P3" style="color:#339966" class="btn _5"><span class="icon"></span>Durango FTP [Private Build]
-          </p>
+          </br>
 
     <div class="container">
       <section id="main_content">
