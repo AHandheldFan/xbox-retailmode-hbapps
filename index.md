@@ -1,0 +1,33 @@
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+
+        <section id="downloads">
+          {% if site.show_downloads %}
+          {% endif %}
+          <p style="text-align: center;"><a href="https://cutt.ly/ZEo3rev" style="color:#3366ff" class="btn _5"><span class="icon"></span>RetroArch [Public Build] (NO AUTO-UPDATES)</a></p>
+          <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9PN845JHNSTB" style="color:#3366ff" class="btn _5"><span class="icon"></span>RetroArch [Private Build]
+          <br>
+          <p><a href="https://forms.gle/uigzj4RAUZw3pU839">(REQUIRES WHITELISTING)</a></p></h5>
+          </br>
+        </section>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        {{ content }}
+      </section>
+    </div>
+  </body>
+</html>
