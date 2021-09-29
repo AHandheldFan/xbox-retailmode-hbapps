@@ -19,7 +19,7 @@
           <p style="text-align: center;"><span style="color: #ffffff;"><s>^ DOES NOT REQUIRE WHITELISTING ^</s></span>
           </p>
           <br>
-          <p style="text-align: center;">APPS REQUIRING ONE TIME <a href="https://forms.gle/uigzj4RAUZw3pU839">WHITELISTING</a>:
+          <p style="text-align: center;"><strong><span style="color: #ff0000;">APPS REQUIRING ONE TIME</span> <a href="https://forms.gle/uigzj4RAUZw3pU839">WHITELISTING</a><span style="color: #ff0000;">:</span></strong>
           </p>
           <br>
           <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9PN845JHNSTB" style="color:#339966" class="btn _5"><span class="icon"></span>RetroArch Multi-Platform Emulator [Private Build]
