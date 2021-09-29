@@ -17,7 +17,7 @@
           {% endif %}
           <p style="text-align: center;"><a href="https://cutt.ly/ZEo3rev" style="color:#3366ff" class="btn _5"><span class="icon"></span>RetroArch [Public Build] (NO AUTO-UPDATES)</a></p>
           <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9PN845JHNSTB" style="color:#3366ff" class="btn _5"><span class="icon"></span>RetroArch [Private Build]
-          <br /><br /></p>
+          <br /><br />
           <p><a href="https://forms.gle/uigzj4RAUZw3pU839">(REQUIRES WHITELISTING 1ST)</a>
           </p>
 
