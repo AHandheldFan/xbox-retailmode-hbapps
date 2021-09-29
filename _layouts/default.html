@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+
+{% seo %}
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <section id="downloads">
+          {% if site.show_downloads %}
+          {% endif %}
+          <u>MRPETERD'S PS4 XPLOIT HOST REPO!</u>
+          <br>
+          *PLEASE CONSIDER A ONE TIME DONATION IF YOU CAN AS MAINTAINING THIS REPO IS QUITE TIME CONSUMING. DONATIONS ARE OF COURSE OPTIONAL*
+          <br>
+          <p style="text-align: center;"><a href="https://paypal.me/petetooelite" class="btn _4"><span style="color:#ff0066" class="icon"></span>💰Donations💰</a></p>
+          </br>
+        </section>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        {{ content }}
+      </section>
+    </div>
+  </body>
+</html>
