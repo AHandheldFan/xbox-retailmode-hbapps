@@ -19,6 +19,9 @@
           <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9PN845JHNSTB" style="color:#339966" class="btn _5"><span class="icon"></span>RetroArch [Private Build]
           <p style="text-align: center;"><a href="https://forms.gle/uigzj4RAUZw3pU839">(REQUIRES WHITELISTING 1ST)</a>
           </p>
+          <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9NQM495XJ2P3" style="color:#339966" class="btn _5"><span class="icon"></span>Durango FTP [Private Build]
+          <p style="text-align: center;"><a href="https://forms.gle/uigzj4RAUZw3pU839">(REQUIRES WHITELISTING 1ST)</a>
+          </p>
 
     <div class="container">
       <section id="main_content">
