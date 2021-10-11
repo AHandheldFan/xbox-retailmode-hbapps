@@ -15,7 +15,7 @@
         <section id="downloads">
           {% if site.show_downloads %}
           {% endif %}
-          <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9MTPKHHFCH24" style="color:#339966" class="btn _5"><span class="icon"></span>Brave Browser</a></p>
+          <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9MTPKHHFCH24" style="color:#339966" class="btn _5"><span class="icon"></span>Brave Browser-Xbox-UWP</a></p>
           <p style="text-align: center;"><span style="color: #ffffff;"><s>^ DOES NOT REQUIRE WHITELISTING ^</s></span>
           </p>
           <br>
