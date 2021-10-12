@@ -15,7 +15,7 @@
         <section id="downloads">
           {% if site.show_downloads %}
           {% endif %}
-          <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9NTF4GNRKBGH" style="color:#339966" class="btn _5"><span class="icon"></span>Kodi [Modded
+          <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9NTF4GNRKBGH" style="color:#339966" class="btn _5"><span class="icon"></span>Kodi [Modded]
             </a></p>
           <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9PMJTSK0VTCZ" style="color:#339966" class="btn _5"><span class="icon"></span>Brave Browser
             </a></p>
