@@ -17,7 +17,7 @@
           {% endif %}
           <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9NTF4GNRKBGH" style="color:#339966" class="btn _5"><span class="icon"></span>Kodi [Modded]
             </a></p>
-          <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9PMJTSK0VTCZ" style="color:#339966" class="btn _5"><span class="icon"></span>Brave Browser
+          <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9MTPKHHFCH24" style="color:#339966" class="btn _5"><span class="icon"></span>Brave Browser
             </a></p>
           <p style="text-align: center;"><span style="color: #ffffff;"><s>^ DOES NOT REQUIRE WHITELISTING ^</s></span>
           </p>
