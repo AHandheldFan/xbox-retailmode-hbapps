@@ -20,6 +20,6 @@
           <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9NK2KR5F2QSQ" style="color:#339966" class="btn _5"><span class="icon"></span>RetroArch Multi-Platform Retro Emulator
           <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9N4W881RHVW9" style="color:#339966" class="btn _5"><span class="icon"></span>NesBox
           <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9PJ0S6T49B9F" style="color:#339966" class="btn _5"><span class="icon"></span>VBA10
-          <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9PLB6BK7KX7L" style="color:#339966" class="btn _5"><span class="icon"></span>Durango FTP [Private Build]
+          <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9PLB6BK7KX7L" style="color:#339966" class="btn _5"><span class="icon"></span>Universal FTP Server (Durango FTP)
           <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9PM130KWFGLG" style="color:#339966" class="btn _5"><span class="icon"></span>DuckStation [Private Build]
           <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9N1LV92DDZPC" style="color:#339966" class="btn _5"><span class="icon"></span>PPSSPP [Private Build]
