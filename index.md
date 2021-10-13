@@ -18,6 +18,7 @@
           <p style="text-align: center;"><strong><span style="color: #ff0000;">BELOW APPS REQUIRE ONE TIME</span> <a href="https://forms.gle/uigzj4RAUZw3pU839">WHITELISTING</a><span style="color: #ff0000;">:</span></strong>
           </p>
           <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9NK2KR5F2QSQ" style="color:#339966" class="btn _5"><span class="icon"></span>RetroArch Multi-Platform Retro Emulator
+          <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9N1LV92DDZPC" style="color:#339966" class="btn _5"><span class="icon"></span>NesBox
           <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9PLB6BK7KX7L" style="color:#339966" class="btn _5"><span class="icon"></span>Durango FTP [Private Build]
           <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9PM130KWFGLG" style="color:#339966" class="btn _5"><span class="icon"></span>DuckStation [Private Build]
           <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9N1LV92DDZPC" style="color:#339966" class="btn _5"><span class="icon"></span>PPSSPP [Private Build]
