@@ -21,4 +21,4 @@
           <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9N5PJ9N6MSSX" style="color:#339966" class="btn _5"><span class="icon"></span>Universal FTP Server (Durango FTP)
           <p style="text-align: center;"><a href="" style="color:#339966" class="btn _5"><span class="icon"></span>DuckStation [Private Build]
           <p style="text-align: center;"><a href="" style="color:#339966" class="btn _5"><span class="icon"></span>PPSSPP [Private Build]
-          <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9NP4QHT7VXPW" style="color:#339966" class="btn _5"><span class="icon"></span>Brave Browser
+          <p style="text-align: center;"><a href="ms-windows-store://pdp/?productid=9P6J01J83BTK" style="color:#339966" class="btn _5"><span class="icon"></span>Custom Edge Browser
